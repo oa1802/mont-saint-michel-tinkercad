@@ -6,13 +6,13 @@
 
 <a href="https://www.tinkercad.com/things/4DzIlUFrmFZ?sharecode=NfegqxrUZVtxtOI7LtIn3BOZGkdjpUGoZLLlQHYcntA">Tinkercad</a>
 
-<img src="https://github.com/oa1802/mont-saint-michel-tinkercad/blob/main/mont-saint-michel.png"/>
+<img src="https://github.com/oa1802/mont-saint-michel-tinkercad/blob/main/mont-saint-michel.png" width="600"/>
 
 <p>The design was based on this photo:</p>
 
 <img src="https://github.com/oa1802/mont-saint-michel-tinkercad/blob/main/Mont-Saint-Michel_vu_du_ciel.jpg"/>
 
-<p>Source: <a href="https://upload.wikimedia.org/wikipedia/commons/7/78/Mont-Saint-Michel_vu_du_ciel.jpg">Wikipedia</a></p>
+<p>Source: <a href="https://en.wikipedia.org/wiki/Mont-Saint-Michel">Wikipedia</a></p>
 
 <p>The idea and model was created by Omar Alkhalili from scratch. Outside of the
 mentioned source of inspiration, this model was not copied from any other source. Tinkercad
